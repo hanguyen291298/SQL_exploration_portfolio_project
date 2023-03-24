@@ -212,4 +212,3 @@ FROM (
 	) T
 ORDER BY 1, 4 DESC
 GO
-select * from full_data
